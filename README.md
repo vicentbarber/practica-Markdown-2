@@ -28,3 +28,5 @@ Aquí aprenderemos a usar títulos, listas, enlaces, imágenes y documentos adic
 ![imagen de ejemplo](https://iescelia.org/web/wp-content/uploads/2012/05/iescelia_1950.jpg)
 
 ## Imagen local
+![pajaro azul](images/vista-fotorrealista-del-pajaro-buho-por-la-noche.jpg)
+
