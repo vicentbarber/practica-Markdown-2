@@ -30,3 +30,4 @@ Aquí aprenderemos a usar títulos, listas, enlaces, imágenes y documentos adic
 ## Imagen local
 ![pajaro azul](images/vista-fotorrealista-del-pajaro-buho-por-la-noche.jpg)
 
+[Ir a la tarea](tarea.md)
