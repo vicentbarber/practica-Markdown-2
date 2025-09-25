@@ -31,3 +31,6 @@ Aquí aprenderemos a usar títulos, listas, enlaces, imágenes y documentos adic
 ![pajaro azul](images/vista-fotorrealista-del-pajaro-buho-por-la-noche.jpg)
 
 [Ir a la tarea](tarea.md)
+# bienvenido a mi repo
+[ir a la tarea](tarea.md)
+
